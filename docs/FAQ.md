@@ -14,7 +14,7 @@ MineFlow est une solution de gestion logistique conçue spécifiquement pour les
 ## Questions pour les Débutants
 
 ### Comment créer un logiciel ? C'est quoi le début ?
-Excellente question ! Consultez notre guide complet : [GETTING_STARTED.md](GETTING_STARTED.md)
+Excellente question ! Consultez notre guide complet : [GETTING_STARTED.md](../GETTING_STARTED.md)
 
 En résumé :
 1. **Définir l'objectif** : Que doit faire le logiciel ?
@@ -76,7 +76,7 @@ Plein de façons !
 - 📢 Partager le projet
 
 ### Comment commencer à contribuer au code ?
-1. Lisez [CONTRIBUTING.md](CONTRIBUTING.md)
+1. Lisez [CONTRIBUTING.md](../CONTRIBUTING.md)
 2. Installez le projet localement
 3. Choisissez une issue marquée "good first issue"
 4. Créez une branche
@@ -92,7 +92,7 @@ Cela dépend de votre rythme et du temps que vous y consacrez :
 L'important est la constance, pas la vitesse !
 
 ### Y a-t-il des ressources pour apprendre ?
-Oui ! Voir la section "Ressources pour Apprendre" dans [GETTING_STARTED.md](GETTING_STARTED.md)
+Oui ! Voir la section "Ressources pour Apprendre" dans [GETTING_STARTED.md](../GETTING_STARTED.md)
 
 Ressources gratuites :
 - [freeCodeCamp](https://www.freecodecamp.org/)
@@ -103,7 +103,7 @@ Ressources gratuites :
 ## Questions Techniques
 
 ### Quelles technologies utilise MineFlow ?
-Le stack technique n'est pas encore finalisé. Consultez [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) pour les options envisagées.
+Le stack technique n'est pas encore finalisé. Consultez [ARCHITECTURE.md](ARCHITECTURE.md) pour les options envisagées.
 
 ### Comment configurer l'environnement de développement ?
 La documentation complète sera disponible une fois les technologies choisies. Pour l'instant :
@@ -111,7 +111,7 @@ La documentation complète sera disponible une fois les technologies choisies. P
 2. Suivre les instructions dans README.md (à venir)
 
 ### Où trouver la documentation de l'API ?
-La documentation API sera disponible dans la phase 1 du développement. Consultez [docs/ROADMAP.md](docs/ROADMAP.md) pour le planning.
+La documentation API sera disponible dans la phase 1 du développement. Consultez [ROADMAP.md](ROADMAP.md) pour le planning.
 
 ### Comment exécuter les tests ?
 Les commandes seront documentées une fois l'infrastructure de tests en place :
@@ -124,7 +124,7 @@ python -m pytest
 ## Questions sur le Projet
 
 ### Quelle est la feuille de route du projet ?
-Consultez [docs/ROADMAP.md](docs/ROADMAP.md) pour voir les phases de développement et les fonctionnalités prévues.
+Consultez [ROADMAP.md](ROADMAP.md) pour voir les phases de développement et les fonctionnalités prévues.
 
 ### Comment le projet est-il organisé ?
 ```
@@ -139,7 +139,7 @@ MineFlow/
 Chaque dossier contient un README expliquant son contenu.
 
 ### Le projet est-il open source ?
-Oui ! MineFlow est sous licence MIT. Voir [LICENSE](LICENSE) pour les détails.
+Oui ! MineFlow est sous licence MIT. Voir [LICENSE](../LICENSE) pour les détails.
 
 ### Comment puis-je rester informé ?
 - **GitHub** : Watch le repository pour les notifications
@@ -149,7 +149,7 @@ Oui ! MineFlow est sous licence MIT. Voir [LICENSE](LICENSE) pour les détails.
 ## Questions sur la Communauté
 
 ### Y a-t-il un code de conduite ?
-Oui, voir la section "Code de Conduite" dans [CONTRIBUTING.md](CONTRIBUTING.md).
+Oui, voir la section "Code de Conduite" dans [CONTRIBUTING.md](../CONTRIBUTING.md).
 
 En résumé : soyez respectueux, accueillant et constructif.
 
