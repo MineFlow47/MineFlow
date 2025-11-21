@@ -5,6 +5,9 @@ Ce dossier contient toute la documentation technique du projet.
 ## Documents Disponibles
 
 - [ARCHITECTURE.md](ARCHITECTURE.md) - Architecture du système
+- [ROADMAP.md](ROADMAP.md) - Feuille de route du projet
+- [FAQ.md](FAQ.md) - Questions fréquemment posées
+- [QUICK_REFERENCE.md](QUICK_REFERENCE.md) - Guide de référence rapide
 
 ## Documents à Venir
 

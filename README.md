@@ -43,8 +43,11 @@ cd MineFlow
 
 - [Guide de Démarrage](GETTING_STARTED.md) - Comment créer un logiciel : le début
 - [Guide de Contribution](CONTRIBUTING.md) - Comment contribuer au projet
+- [FAQ](docs/FAQ.md) - Questions fréquemment posées
+- [Référence Rapide](docs/QUICK_REFERENCE.md) - Guide de référence rapide
+- [Architecture Technique](docs/ARCHITECTURE.md) - Documentation de l'architecture
+- [Feuille de Route](docs/ROADMAP.md) - Roadmap du projet
 - Documentation API (à venir)
-- Architecture Technique (à venir)
 
 ## 🏗️ Structure du Projet
 
