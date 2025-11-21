@@ -83,7 +83,9 @@ Nous accueillons toutes les contributions ! Que vous soyez développeur expérim
 
 **Vous demandez "Comment créer un logiciel, c'est quoi le début ?"**
 
-Consultez notre guide complet : [GETTING_STARTED.md](GETTING_STARTED.md)
+👉 Consultez notre guide complet : [GETTING_STARTED.md](GETTING_STARTED.md)
+
+📋 Voir aussi : [SUMMARY.md](SUMMARY.md) - Résumé complet du projet et de sa documentation
 
 Ce guide couvre :
 - Les étapes fondamentales pour créer un logiciel
